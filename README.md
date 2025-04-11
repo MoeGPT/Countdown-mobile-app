@@ -6,7 +6,11 @@ You can reach me at https://www.linkedin.com/in/maurice-a-cooper/
 or moe.gpt2004@gmail.com
 
 
-
+Patch 0.02!
+-April 11, 2025
+-Added some input validation to ensure the date entered is a current or future date
+-Created a Hud Class to test some basic Java Built-In UI elements
+-For further Development, including mobile I will try to transition to React
 
 PATCH 0.01!!!
 Add files via upload
