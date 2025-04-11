@@ -12,7 +12,7 @@ public class CountdownEvent {
         this.startDate = startDate;
         this.startTime = startTime;
     }
-    //determine if time is am or pm
+    //determine if time is am or pm // 24 hour time may be easier?
     public void setStartDate( LocalDate startDate ) {
         this.startDate = startDate;
     }
